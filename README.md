@@ -1,7 +1,7 @@
 # sensor-fusion-sentics
 
 ## Sensor Fusion Explanation
-
+This project fuses data from two different sensors: camera data (JSON) and IMU data (CSV). The algorithm synchronizes data by timestamps, clusters objects by proximity, smooths heading angles using a Kalman filter, and outputs the fused results to a CSV file.
 ### What Does This Code Do?
 The code fuses data from two different sensors:
 
