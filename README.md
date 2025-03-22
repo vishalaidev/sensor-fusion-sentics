@@ -114,7 +114,10 @@ This class smooths the **heading angle**. The IMU data gives a noisy (inaccurate
 
 Output video--
 
-https://github.com/user-attachments/assets/3f90f052-87c9-41f5-a6f3-59e5ca02e796
+https://github.com/user-attachments/assets/84b7ae8e-0bd6-49df-91d4-7bd22ea837dc
+
+
+
 
 
 
