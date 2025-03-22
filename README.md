@@ -112,5 +112,11 @@ This class smooths the **heading angle**. The IMU data gives a noisy (inaccurate
 ✅ **Step 6: Write Fused Data**
 - Save the fused information to the output CSV.
 
+Output video--
+
+https://github.com/user-attachments/assets/3f90f052-87c9-41f5-a6f3-59e5ca02e796
+
+
+
 ---
 
